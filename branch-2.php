@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  Ini adalah branch 2
+  Ini adalah branch 2 merge ke branch master
 </body>
 
 </html>
